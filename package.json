@@ -9,14 +9,22 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.13",
-    "vuesax-alpha": "^0.2.0-beta.80"
+    "@vicons/ionicons5": "^0.13.0",
+    "@vueuse/core": "^13.1.0",
+    "axios": "^1.8.4",
+    "uuid": "^11.1.0",
+    "vue": "^3.5.13"
   },
   "devDependencies": {
+    "@types/node": "^22.14.0",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vue/tsconfig": "^0.7.0",
     "chalk": "^4.1.2",
+    "naive-ui": "^2.41.0",
     "typescript": "~5.7.2",
+    "unplugin-auto-import": "^19.1.2",
+    "unplugin-vue-components": "^28.4.1",
+    "vfonts": "^0.0.3",
     "vite": "^6.2.0",
     "vue-tsc": "^2.2.4"
   }
